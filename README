@@ -1,4 +1,7 @@
 Where to find complete Redis documentation?
+
+> **Clone / study project** — this repo is a re-implementation or copy of someone else's work, kept for learning. All credit for the original belongs to its authors.
+
 -------------------------------------------
 
 This README is just a fast "quick start" document. You can find more detailed
@@ -81,3 +84,6 @@ You can find the list of all the available commands here:
 
 Enjoy!
 
+---
+
+Built by **Naman Parmar** ([nx9161](https://github.com/nx9161)).
